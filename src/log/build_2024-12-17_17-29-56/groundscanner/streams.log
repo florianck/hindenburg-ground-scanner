@@ -1,0 +1,33 @@
+[0.731s] Invoking command in '/home/rosrunner/flugrobotik-project/groundscanner': PYTHONPATH=/home/rosrunner/flugrobotik-project/build/groundscanner/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/rosrunner/flugrobotik-project/install/groundscanner/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py egg_info --egg-base ../build/groundscanner build --build-base /home/rosrunner/flugrobotik-project/build/groundscanner/build install --record /home/rosrunner/flugrobotik-project/build/groundscanner/install.log --single-version-externally-managed install_data
+[0.959s] running egg_info
+[0.959s] creating ../build/groundscanner/groundscanner.egg-info
+[0.959s] writing ../build/groundscanner/groundscanner.egg-info/PKG-INFO
+[0.960s] writing dependency_links to ../build/groundscanner/groundscanner.egg-info/dependency_links.txt
+[0.960s] writing entry points to ../build/groundscanner/groundscanner.egg-info/entry_points.txt
+[0.960s] writing requirements to ../build/groundscanner/groundscanner.egg-info/requires.txt
+[0.960s] writing top-level names to ../build/groundscanner/groundscanner.egg-info/top_level.txt
+[0.960s] writing manifest file '../build/groundscanner/groundscanner.egg-info/SOURCES.txt'
+[0.962s] reading manifest file '../build/groundscanner/groundscanner.egg-info/SOURCES.txt'
+[0.962s] writing manifest file '../build/groundscanner/groundscanner.egg-info/SOURCES.txt'
+[0.963s] running build
+[0.963s] running build_py
+[0.963s] creating /home/rosrunner/flugrobotik-project/build/groundscanner/build
+[0.963s] creating /home/rosrunner/flugrobotik-project/build/groundscanner/build/lib
+[0.963s] creating /home/rosrunner/flugrobotik-project/build/groundscanner/build/lib/groundscanner
+[0.963s] copying groundscanner/__init__.py -> /home/rosrunner/flugrobotik-project/build/groundscanner/build/lib/groundscanner
+[0.963s] running install
+[0.963s] running install_lib
+[0.964s] creating /home/rosrunner/flugrobotik-project/install/groundscanner/lib/python3.10/site-packages/groundscanner
+[0.964s] copying /home/rosrunner/flugrobotik-project/build/groundscanner/build/lib/groundscanner/__init__.py -> /home/rosrunner/flugrobotik-project/install/groundscanner/lib/python3.10/site-packages/groundscanner
+[0.965s] byte-compiling /home/rosrunner/flugrobotik-project/install/groundscanner/lib/python3.10/site-packages/groundscanner/__init__.py to __init__.cpython-310.pyc
+[0.965s] running install_data
+[0.965s] creating /home/rosrunner/flugrobotik-project/install/groundscanner/share/ament_index
+[0.965s] creating /home/rosrunner/flugrobotik-project/install/groundscanner/share/ament_index/resource_index
+[0.965s] creating /home/rosrunner/flugrobotik-project/install/groundscanner/share/ament_index/resource_index/packages
+[0.966s] copying resource/groundscanner -> /home/rosrunner/flugrobotik-project/install/groundscanner/share/ament_index/resource_index/packages
+[0.966s] copying package.xml -> /home/rosrunner/flugrobotik-project/install/groundscanner/share/groundscanner
+[0.966s] running install_egg_info
+[0.967s] Copying ../build/groundscanner/groundscanner.egg-info to /home/rosrunner/flugrobotik-project/install/groundscanner/lib/python3.10/site-packages/groundscanner-0.0.0-py3.10.egg-info
+[0.968s] running install_scripts
+[0.987s] writing list of installed files to '/home/rosrunner/flugrobotik-project/build/groundscanner/install.log'
+[1.005s] Invoked command in '/home/rosrunner/flugrobotik-project/groundscanner' returned '0': PYTHONPATH=/home/rosrunner/flugrobotik-project/build/groundscanner/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/rosrunner/flugrobotik-project/install/groundscanner/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py egg_info --egg-base ../build/groundscanner build --build-base /home/rosrunner/flugrobotik-project/build/groundscanner/build install --record /home/rosrunner/flugrobotik-project/build/groundscanner/install.log --single-version-externally-managed install_data

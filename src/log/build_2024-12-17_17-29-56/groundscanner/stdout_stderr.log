@@ -1,0 +1,31 @@
+running egg_info
+creating ../build/groundscanner/groundscanner.egg-info
+writing ../build/groundscanner/groundscanner.egg-info/PKG-INFO
+writing dependency_links to ../build/groundscanner/groundscanner.egg-info/dependency_links.txt
+writing entry points to ../build/groundscanner/groundscanner.egg-info/entry_points.txt
+writing requirements to ../build/groundscanner/groundscanner.egg-info/requires.txt
+writing top-level names to ../build/groundscanner/groundscanner.egg-info/top_level.txt
+writing manifest file '../build/groundscanner/groundscanner.egg-info/SOURCES.txt'
+reading manifest file '../build/groundscanner/groundscanner.egg-info/SOURCES.txt'
+writing manifest file '../build/groundscanner/groundscanner.egg-info/SOURCES.txt'
+running build
+running build_py
+creating /home/rosrunner/flugrobotik-project/build/groundscanner/build
+creating /home/rosrunner/flugrobotik-project/build/groundscanner/build/lib
+creating /home/rosrunner/flugrobotik-project/build/groundscanner/build/lib/groundscanner
+copying groundscanner/__init__.py -> /home/rosrunner/flugrobotik-project/build/groundscanner/build/lib/groundscanner
+running install
+running install_lib
+creating /home/rosrunner/flugrobotik-project/install/groundscanner/lib/python3.10/site-packages/groundscanner
+copying /home/rosrunner/flugrobotik-project/build/groundscanner/build/lib/groundscanner/__init__.py -> /home/rosrunner/flugrobotik-project/install/groundscanner/lib/python3.10/site-packages/groundscanner
+byte-compiling /home/rosrunner/flugrobotik-project/install/groundscanner/lib/python3.10/site-packages/groundscanner/__init__.py to __init__.cpython-310.pyc
+running install_data
+creating /home/rosrunner/flugrobotik-project/install/groundscanner/share/ament_index
+creating /home/rosrunner/flugrobotik-project/install/groundscanner/share/ament_index/resource_index
+creating /home/rosrunner/flugrobotik-project/install/groundscanner/share/ament_index/resource_index/packages
+copying resource/groundscanner -> /home/rosrunner/flugrobotik-project/install/groundscanner/share/ament_index/resource_index/packages
+copying package.xml -> /home/rosrunner/flugrobotik-project/install/groundscanner/share/groundscanner
+running install_egg_info
+Copying ../build/groundscanner/groundscanner.egg-info to /home/rosrunner/flugrobotik-project/install/groundscanner/lib/python3.10/site-packages/groundscanner-0.0.0-py3.10.egg-info
+running install_scripts
+writing list of installed files to '/home/rosrunner/flugrobotik-project/build/groundscanner/install.log'
