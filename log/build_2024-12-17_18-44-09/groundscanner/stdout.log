@@ -1,0 +1,25 @@
+running egg_info
+writing ../../build/groundscanner/groundscanner.egg-info/PKG-INFO
+writing dependency_links to ../../build/groundscanner/groundscanner.egg-info/dependency_links.txt
+writing entry points to ../../build/groundscanner/groundscanner.egg-info/entry_points.txt
+writing requirements to ../../build/groundscanner/groundscanner.egg-info/requires.txt
+writing top-level names to ../../build/groundscanner/groundscanner.egg-info/top_level.txt
+reading manifest file '../../build/groundscanner/groundscanner.egg-info/SOURCES.txt'
+writing manifest file '../../build/groundscanner/groundscanner.egg-info/SOURCES.txt'
+running build
+running build_py
+copying groundscanner/scanner.py -> /home/rosrunner/projects/hindenburg-ground-scanner/build/groundscanner/build/lib/groundscanner
+copying groundscanner/map/segment.py -> /home/rosrunner/projects/hindenburg-ground-scanner/build/groundscanner/build/lib/groundscanner/map
+running install
+running install_lib
+copying /home/rosrunner/projects/hindenburg-ground-scanner/build/groundscanner/build/lib/groundscanner/scanner.py -> /home/rosrunner/projects/hindenburg-ground-scanner/install/groundscanner/lib/python3.10/site-packages/groundscanner
+copying /home/rosrunner/projects/hindenburg-ground-scanner/build/groundscanner/build/lib/groundscanner/map/segment.py -> /home/rosrunner/projects/hindenburg-ground-scanner/install/groundscanner/lib/python3.10/site-packages/groundscanner/map
+byte-compiling /home/rosrunner/projects/hindenburg-ground-scanner/install/groundscanner/lib/python3.10/site-packages/groundscanner/scanner.py to scanner.cpython-310.pyc
+byte-compiling /home/rosrunner/projects/hindenburg-ground-scanner/install/groundscanner/lib/python3.10/site-packages/groundscanner/map/segment.py to segment.cpython-310.pyc
+running install_data
+running install_egg_info
+removing '/home/rosrunner/projects/hindenburg-ground-scanner/install/groundscanner/lib/python3.10/site-packages/groundscanner-0.0.0-py3.10.egg-info' (and everything under it)
+Copying ../../build/groundscanner/groundscanner.egg-info to /home/rosrunner/projects/hindenburg-ground-scanner/install/groundscanner/lib/python3.10/site-packages/groundscanner-0.0.0-py3.10.egg-info
+running install_scripts
+Installing scanner script to /home/rosrunner/projects/hindenburg-ground-scanner/install/groundscanner/lib/groundscanner
+writing list of installed files to '/home/rosrunner/projects/hindenburg-ground-scanner/build/groundscanner/install.log'

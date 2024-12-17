@@ -1,0 +1,16 @@
+[1.068s] Invoking command in '/home/rosrunner/projects/hindenburg-ground-scanner/src/groundscanner': PYTHONPATH=/home/rosrunner/projects/hindenburg-ground-scanner/build/groundscanner/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/rosrunner/projects/hindenburg-ground-scanner/install/groundscanner/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py egg_info --egg-base ../../build/groundscanner build --build-base /home/rosrunner/projects/hindenburg-ground-scanner/build/groundscanner/build install --record /home/rosrunner/projects/hindenburg-ground-scanner/build/groundscanner/install.log --single-version-externally-managed install_data
+[1.345s] running egg_info
+[1.346s] writing ../../build/groundscanner/groundscanner.egg-info/PKG-INFO
+[1.346s] writing dependency_links to ../../build/groundscanner/groundscanner.egg-info/dependency_links.txt
+[1.346s] writing entry points to ../../build/groundscanner/groundscanner.egg-info/entry_points.txt
+[1.346s] writing requirements to ../../build/groundscanner/groundscanner.egg-info/requires.txt
+[1.347s] writing top-level names to ../../build/groundscanner/groundscanner.egg-info/top_level.txt
+[1.348s] reading manifest file '../../build/groundscanner/groundscanner.egg-info/SOURCES.txt'
+[1.349s] writing manifest file '../../build/groundscanner/groundscanner.egg-info/SOURCES.txt'
+[1.349s] running build
+[1.349s] running build_py
+[1.350s] running install
+[1.350s] running install_lib
+[1.352s] running install_data
+[1.352s] error: can't copy 'map.json': doesn't exist or not a regular file
+[1.369s] Invoked command in '/home/rosrunner/projects/hindenburg-ground-scanner/src/groundscanner' returned '1': PYTHONPATH=/home/rosrunner/projects/hindenburg-ground-scanner/build/groundscanner/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/rosrunner/projects/hindenburg-ground-scanner/install/groundscanner/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py egg_info --egg-base ../../build/groundscanner build --build-base /home/rosrunner/projects/hindenburg-ground-scanner/build/groundscanner/build install --record /home/rosrunner/projects/hindenburg-ground-scanner/build/groundscanner/install.log --single-version-externally-managed install_data

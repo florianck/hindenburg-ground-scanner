@@ -1,0 +1,27 @@
+[0.532s] Invoking command in '/home/rosrunner/projects/hindenburg-ground-scanner/src/groundscanner': PYTHONPATH=/home/rosrunner/projects/hindenburg-ground-scanner/build/groundscanner/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/rosrunner/projects/hindenburg-ground-scanner/install/groundscanner/lib/python3.10/site-packages: /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py egg_info --egg-base ../../build/groundscanner build --build-base /home/rosrunner/projects/hindenburg-ground-scanner/build/groundscanner/build install --record /home/rosrunner/projects/hindenburg-ground-scanner/build/groundscanner/install.log --single-version-externally-managed install_data
+[0.730s] running egg_info
+[0.732s] writing ../../build/groundscanner/groundscanner.egg-info/PKG-INFO
+[0.732s] writing dependency_links to ../../build/groundscanner/groundscanner.egg-info/dependency_links.txt
+[0.732s] writing entry points to ../../build/groundscanner/groundscanner.egg-info/entry_points.txt
+[0.733s] writing requirements to ../../build/groundscanner/groundscanner.egg-info/requires.txt
+[0.733s] writing top-level names to ../../build/groundscanner/groundscanner.egg-info/top_level.txt
+[0.734s] reading manifest file '../../build/groundscanner/groundscanner.egg-info/SOURCES.txt'
+[0.735s] writing manifest file '../../build/groundscanner/groundscanner.egg-info/SOURCES.txt'
+[0.736s] running build
+[0.736s] running build_py
+[0.736s] copying groundscanner/scanner.py -> /home/rosrunner/projects/hindenburg-ground-scanner/build/groundscanner/build/lib/groundscanner
+[0.736s] copying groundscanner/map/segment.py -> /home/rosrunner/projects/hindenburg-ground-scanner/build/groundscanner/build/lib/groundscanner/map
+[0.737s] running install
+[0.737s] running install_lib
+[0.738s] copying /home/rosrunner/projects/hindenburg-ground-scanner/build/groundscanner/build/lib/groundscanner/scanner.py -> /home/rosrunner/projects/hindenburg-ground-scanner/install/groundscanner/lib/python3.10/site-packages/groundscanner
+[0.738s] copying /home/rosrunner/projects/hindenburg-ground-scanner/build/groundscanner/build/lib/groundscanner/map/segment.py -> /home/rosrunner/projects/hindenburg-ground-scanner/install/groundscanner/lib/python3.10/site-packages/groundscanner/map
+[0.739s] byte-compiling /home/rosrunner/projects/hindenburg-ground-scanner/install/groundscanner/lib/python3.10/site-packages/groundscanner/scanner.py to scanner.cpython-310.pyc
+[0.739s] byte-compiling /home/rosrunner/projects/hindenburg-ground-scanner/install/groundscanner/lib/python3.10/site-packages/groundscanner/map/segment.py to segment.cpython-310.pyc
+[0.740s] running install_data
+[0.740s] running install_egg_info
+[0.742s] removing '/home/rosrunner/projects/hindenburg-ground-scanner/install/groundscanner/lib/python3.10/site-packages/groundscanner-0.0.0-py3.10.egg-info' (and everything under it)
+[0.742s] Copying ../../build/groundscanner/groundscanner.egg-info to /home/rosrunner/projects/hindenburg-ground-scanner/install/groundscanner/lib/python3.10/site-packages/groundscanner-0.0.0-py3.10.egg-info
+[0.743s] running install_scripts
+[0.762s] Installing scanner script to /home/rosrunner/projects/hindenburg-ground-scanner/install/groundscanner/lib/groundscanner
+[0.763s] writing list of installed files to '/home/rosrunner/projects/hindenburg-ground-scanner/build/groundscanner/install.log'
+[0.781s] Invoked command in '/home/rosrunner/projects/hindenburg-ground-scanner/src/groundscanner' returned '0': PYTHONPATH=/home/rosrunner/projects/hindenburg-ground-scanner/build/groundscanner/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/rosrunner/projects/hindenburg-ground-scanner/install/groundscanner/lib/python3.10/site-packages: /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py egg_info --egg-base ../../build/groundscanner build --build-base /home/rosrunner/projects/hindenburg-ground-scanner/build/groundscanner/build install --record /home/rosrunner/projects/hindenburg-ground-scanner/build/groundscanner/install.log --single-version-externally-managed install_data

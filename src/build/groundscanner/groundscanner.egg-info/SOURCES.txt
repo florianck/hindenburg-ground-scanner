@@ -9,6 +9,10 @@ setup.py
 ../build/groundscanner/groundscanner.egg-info/top_level.txt
 ../build/groundscanner/groundscanner.egg-info/zip-safe
 groundscanner/__init__.py
+groundscanner/scanner.py
+groundscanner/map/__init__.py
+groundscanner/map/map.py
+groundscanner/map/segment.py
 resource/groundscanner
 test/test_copyright.py
 test/test_flake8.py
